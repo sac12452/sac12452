@@ -1,5 +1,15 @@
-Hey 👋, I'm Sachin !
-Hi, I'm Sachin Kumar Rai, an graduate student from Jabalpur Engineering College 🚀 from India. 
+<div id="header" align="center">
+  <img src="https://filmdaily.co/wp-content/uploads/2021/12/dataanalyst-lede.jpg" width="450"/>
+</div>
+
+
+<h1 align = "center">
+  Hi
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Sachin
+    
+</h1>
+Hi, I'm Sachin Kumar Rai, an graduate student from Jabalpur Engineering College 🚀 from India.I love learning and always seeking new challenges. On my GitHub profile, you'll find my work in extracting insights and building data-driven solutions. My expertise lies in data manipulation, statistical analysis, and visualization, enabling me to uncover valuable insights and make data-driven decisions with clarity. Let's connect and explore the world of data together!
+
 
 Beside's that, I enjoy listening music 🎧, reading book 📚, and traveling 🏝️🗻.
 
@@ -19,7 +29,7 @@ Talking about Personal Stuffs/Achievements:
 
 💬 Ask me about anything, I am happy to help
 
-📫 How to reach me: s2383745@gmail.com
+📫 How to reach me: sachinkumarrai77@gmail.com
 
 &nbsp;
 
@@ -38,4 +48,13 @@ Languages and Tools:
     <a href="https://www.microsoft.com/en-in/sql-server/sql-server-downloads" rel="nofollow"> <img src="https://camo.githubusercontent.com/0795475ab521318b4426f7f9830c96d246fd15acd98350cf750dfa0bf3b41848/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6d6963726f736f66742d73716c2d7365727665722e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" style="max-width: 100%;"></a>
     <a href="https://pandas.pydata.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="47" height="47" style="max-width: 100%;"> </a> 
     <a href="https://seaborn.pydata.org/" rel="nofollow"> <img src="https://camo.githubusercontent.com/53ae1cb6abbfacfb463f0a0d2fbdb58acad261200cb61f3d32abd7ac0edacded/68747470733a2f2f736561626f726e2e7079646174612e6f72672f5f696d616765732f6c6f676f2d6d61726b2d6c6967687462672e737667" alt="seaborn" width="47" height="47" data-canonical-src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" style="max-width: 100%;"> </a>
+</p>
+
+<h2 dir="auto"><a id="user-content--Reach-out-to-me-" class="anchor" href="#-reach-out-to-me-" aria-hidden="true"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966"><img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="40" style="max-width: 100%;"></a> <strong>Reach out to me:</strong> </h2>
+
+<p align="center" dir="auto">
+<a href="https://www.linkedin.com/in/sachin-kumar-rai-5a953b264/" rel="nofollow"><img src="https://camo.githubusercontent.com/162001cc0747178f47ced6e40de0cd16e375beb9b5fbca4ea3d520ecca78cd85/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6c696e6b6564696e2e706e67" data-canonical-src="https://img.icons8.com/fluent/48/000000/linkedin.png" style="max-width: 100%;"></a>
+<a href="https://github.com/sac12452"><img src="https://camo.githubusercontent.com/c9de7ec1e54618f8d303a08f58ed31e66323aa28abbb1619c5783bc2735c785e/68747470733a2f2f696d672e69636f6e73382e636f6d2f77696e646f77732f34382f3030303030302f6769746875622e706e67" data-canonical-src="https://img.icons8.com/windows/48/000000/github.png" style="max-width: 100%;"></a>
+<a href="mailto:sachinkumarrai77@gmail.com"><img src="https://camo.githubusercontent.com/e260052d80402ee1c3c47c1663259d0d952556860eec8eee4118a46b506f43a3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f676d61696c2d6e65772e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/gmail-new.png" style="max-width: 100%;"></a>
+<a href="https://www.hackerrank.com/s2383745?hr_r=1" rel="nofollow"><img src="https://camo.githubusercontent.com/dea8697850e5e6109164b354bdb17397540dbce064f62e0d537605ac7eb8bb2a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f342f34302f4861636b657252616e6b5f49636f6e2d3130303070782e706e67" width="44" height="44" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" style="max-width: 100%;"></a>
 </p>
