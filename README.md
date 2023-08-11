@@ -57,7 +57,7 @@ Languages and Tools:
 <a href="https://www.hackerrank.com/s2383745?hr_r=1" rel="nofollow"><img src="https://camo.githubusercontent.com/dea8697850e5e6109164b354bdb17397540dbce064f62e0d537605ac7eb8bb2a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f342f34302f4861636b657252616e6b5f49636f6e2d3130303070782e706e67" width="44" height="44" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" style="max-width: 100%;"></a>
 </p>
 
-
+#  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Statistics
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sac12452&show_icons=true&locale=en&layout=compact" alt="sac12452" /></p>
 
